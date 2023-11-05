@@ -35,13 +35,13 @@ https://www.canva.com/design/DAFzRtpIoAM/lYor04z2zT19j8qF01grdg/edit?utm_content
 Clone the project
 
 ```bash
-  git clone
+  git clone https://github.com/ItsVidushi/DeshDarshan
 ```
 
 Go to the project directory
 
 ```bash
-cd
+cd DeshDarshan
 ```
 
 Install dependencies
