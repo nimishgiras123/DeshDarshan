@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'assets_page.dart';
 import 'page3.dart';
+import 'team_folder.dart';
 
 class ProjectPage extends StatelessWidget {
   final String folderName;
@@ -10,7 +11,18 @@ class ProjectPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text(folderName),
+        backgroundColor: Colors.black,
+
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back), // Use the back arrow icon
+          onPressed: () {
+            // Navigate to the desired class when the back button is pressed
+            Navigator.of(context).push(
+              MaterialPageRoute(
+                builder: (context) => TeamFolderPage(),// Replace YourClassName with the class you want to navigate to
+              ),
+            );
+          },),
       ),
       body: Column(
         children: [

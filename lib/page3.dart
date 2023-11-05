@@ -1,12 +1,28 @@
 import 'package:flutter/material.dart';
 
 import 'assets_page.dart';
+import 'project.dart';
 
 class Page3 extends StatelessWidget {
+
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(),
+      appBar: AppBar(
+        backgroundColor: Colors.black,
+
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back), // Use the back arrow icon
+          onPressed: () {
+            // Navigate to the desired class when the back button is pressed
+            Navigator.of(context).push(
+              MaterialPageRoute(
+                builder: (context) => ProjectPage(folderName: 'folderName',), // Replace YourClassName with the class you want to navigate to
+              ),
+            );
+          },),
+      ),
       body: Column(
         children: [
           Container(

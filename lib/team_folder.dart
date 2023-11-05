@@ -45,7 +45,7 @@ class TeamFolderPage extends StatelessWidget {
                   },style: ButtonStyle(
                   backgroundColor: MaterialStateProperty.all(Colors.black87), // Change the background color here
                 ),
-                  child: Text("Let's get Started"),
+                  child: Text("Let's get started"),
 
                 ),
               ],
