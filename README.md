@@ -9,19 +9,6 @@
 
 DeshDarshan is an innovative tool for tourists and cultural enthusiasts. Using real-time location tracking, it provides detailed historical, factual, and cultural information about nearby monuments. With options for audio or text guidance, it transforms the tourist experience, allowing users to immerse themselves in history effortlessly. Explore monuments hassle-free with DeshDarshan. It provides an innovative solution to the challenges faced by travelers. It offers a real-time, personalized virtual guide that seamlessly integrates with a user's surroundings. By plugging in their earphones, users receive information about the historical significance, stories, and context of the artifacts and architecture they encounter. This immersive approach enriches travel experiences, eliminating the need for traditional guidebooks and language barriers. The app's multilingual and multimodal features ensure inclusivity, and the introduction of dedicated hardware for areas where mobile phones are restricted further widens its accessibility. In doing so, Deshdarshan transforms tourism into an educational, culturally enriching journey for all travelers.
 
-## Team Details
-
-Team Name (Abheet)
-
-- Vidushi Singh
-- Jatin Sinha
-- Deeksha Bhardwaj
-- Arindam Rawat
-
-## Presentation Link
-
-https://www.canva.com/design/DAFzRtpIoAM/lYor04z2zT19j8qF01grdg/edit?utm_content=DAFzRtpIoAM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
 ## Tech Stack
 
 - Flutter for Android App Development
@@ -65,3 +52,9 @@ Start the server
 ![App Screenshot](https://camo.githubusercontent.com/c416ed595ac338be9039034df2e1b12ad64a5830bd00cd3f06afb10b7294ab2d/68747470733a2f2f692e6962622e636f2f7a6e644470666a2f53637265656e73686f742d323032332d30392d32342d31342d35392d31322d3932302d636f6d2d6578616d706c652d646573682d6461727368616e2e6a7067)
 ![App Screenshot](https://camo.githubusercontent.com/648fa56dbae14b3b7b2b1d7340578dd4aa8ad49069710bdff54b6600b08f4caa/68747470733a2f2f692e6962622e636f2f6a7a54766a68672f53637265656e73686f742d323032332d30392d32342d31342d35392d31372d3830392d636f6d2d6578616d706c652d646573682d6461727368616e2e6a7067)
 ![App Screenshot](https://camo.githubusercontent.com/b0b63a44091f08c5d85adde9ae645d96c7564b7bd1b56e1d813bbae7efbd6dac/68747470733a2f2f692e6962622e636f2f717956544b67362f57686174732d4170702d496d6167652d323032332d30392d32342d61742d332d31342d32342d504d2e6a7067)
+
+## Acknowledgements
+
+- **Team Abheet**: For conceptualizing and developing Mastishk.
+---
+
