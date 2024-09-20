@@ -22,7 +22,7 @@ DeshDarshan is an innovative tool for tourists and cultural enthusiasts. Using r
 Clone the project
 
 ```bash
-  git clone https://github.com/ItsVidushi/DeshDarshan
+  git clone https://github.com/nimishgiras123/DeshDarshan
 ```
 
 Go to the project directory
